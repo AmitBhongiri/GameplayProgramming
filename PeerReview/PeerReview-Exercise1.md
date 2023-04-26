@@ -65,7 +65,7 @@ The captain moves to the right as required. Bases the code off of the MoveCharac
 - [ ] Unsatisfactory
 
 #### Justification ##### 
-Each of the pirates perform the Slow, Normal, and Fast version of gathering correctly. Each performs for the correct amount of time, producing resources at the correct intervals. The resources are produced both on and near the pirate, with a tiny bit of velocity before falling to the ground and having a random range of positions to fall near the pirate. 
+Each of the pirates perform the Slow, Normal, and Fast version of gathering correctly. Each performs for the correct amount of time, producing resources at the correct intervals. The resources are produced both on and near the pirate, with a tiny bit of velocity before falling to the ground and having a random range of positions to fall near the pirate. Code is logical and easy to follow.
 
 ### Stage 3 ###
 
@@ -76,7 +76,7 @@ Each of the pirates perform the Slow, Normal, and Fast version of gathering corr
 - [ ] Unsatisfactory
 
 #### justification ##### 
-Write justification here.
+Creates a random generator that generates numbers between 1 and 9, having 1-3 for slow work, 4-6 for normal work, and 7-9 for fast work. Easily understandable and is correctly implemented when the captain motivates the pirates.
 
 ### Stage 4 ###
 
