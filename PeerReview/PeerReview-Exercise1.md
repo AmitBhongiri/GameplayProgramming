@@ -65,7 +65,7 @@ The captain moves to the right as required. Bases the code off of the MoveCharac
 - [ ] Unsatisfactory
 
 #### Justification ##### 
-Write Justification here.
+Each of the pirates perform the Slow, Normal, and Fast version of gathering correctly. Each performs for the correct amount of time, producing resources at the correct intervals. The resources are produced both on and near the pirate, with a tiny bit of velocity before falling to the ground and having a random range of positions to fall near the pirate. 
 
 ### Stage 3 ###
 
