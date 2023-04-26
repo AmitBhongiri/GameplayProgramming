@@ -87,7 +87,7 @@ Creates a random generator that generates numbers between 1 and 9, having 1-3 fo
 - [ ] Unsatisfactory
 
 #### justification ##### 
-Write justification here.
+Implemented a MoveCharacterJump that propels the Captain up and in the direction he is facing at a speed that is specified in a variable. Simple to understand.
 
 ## Code Style ##
 
