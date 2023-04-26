@@ -54,7 +54,7 @@ The following are the criteria by which you should assess your peer's solution o
 - [ ] Unsatisfactory
 
 #### Justification ##### 
-Write Justification here.
+The captain moves to the right as required. Bases the code off of the MoveCharacterLeft with the two tweaks: not flipping the sprite and making the speed positive.
 
 ### Stage 2 ###
 
