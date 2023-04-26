@@ -47,9 +47,9 @@ The following are the criteria by which you should assess your peer's solution o
 
 ### Stage 1 ###
 
-- [ ] Perfect
+- [x] Perfect
 - [ ] Great
-- [x] Good
+- [ ] Good
 - [ ] Satisfactory
 - [ ] Unsatisfactory
 
@@ -58,9 +58,9 @@ Write Justification here.
 
 ### Stage 2 ###
 
-- [ ] Perfect
+- [x] Perfect
 - [ ] Great
-- [x] Good
+- [ ] Good
 - [ ] Satisfactory
 - [ ] Unsatisfactory
 
@@ -69,9 +69,9 @@ Write Justification here.
 
 ### Stage 3 ###
 
-- [ ] Perfect
+- [x] Perfect
 - [ ] Great
-- [x] Good
+- [ ] Good
 - [ ] Satisfactory
 - [ ] Unsatisfactory
 
@@ -80,7 +80,7 @@ Write justification here.
 
 ### Stage 4 ###
 
-- [ ] Perfect
+- [x] Perfect
 - [ ] Great
 - [ ] Good
 - [ ] Satisfactory
