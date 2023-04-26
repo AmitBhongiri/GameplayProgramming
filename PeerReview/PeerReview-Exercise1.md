@@ -111,7 +111,7 @@ Here is another example as well.
 ### Code Style Review ###
 
 #### Style Guide Infractions ####
-* Does not have an underscore in front of camelcase variables, does not matter that much though. Here
+* Does not have an underscore in front of camelcase variables, does not matter that much though. [Here](https://github.com/ensemble-ai/exercise-1-command-pattern-yochKo/blob/72fc57227262f3e8040bfb999fc259bc2b263f93/Captain/Assets/Scripts/PirateController.cs#L32)
 
 #### Style Guide Exemplars ####
 * Has the brackets on separate lines for functions/loops. [Here](https://github.com/ensemble-ai/exercise-1-command-pattern-yochKo/blob/72fc57227262f3e8040bfb999fc259bc2b263f93/Captain/Assets/Scripts/FastWorkerPirateCommand.cs#L10)
@@ -134,3 +134,4 @@ This should be similar to the Code Style justification.
 * Does not have comments explaining what the fire2 does.
 
 #### Best Practices Exemplars ####
+* Has debug logs on the PirateController.cs that explains which numbers indicate slow, normal, and fast work. [Here](https://github.com/ensemble-ai/exercise-1-command-pattern-yochKo/blob/72fc57227262f3e8040bfb999fc259bc2b263f93/Captain/Assets/Scripts/PirateController.cs#L36)
